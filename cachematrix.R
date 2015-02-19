@@ -1,10 +1,14 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-
+## Functions explanations 
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
-
+        m <- NULL 
+        setMatrix <- function (y) { ## matrix 
+                ##
+                
+        }        
 }
 
 
